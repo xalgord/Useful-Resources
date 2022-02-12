@@ -7,3 +7,7 @@
 
 ## Download anything for free
 https://freesoff.com/
+
+
+# cybersecurity handbook
+https://guidesmiths.github.io/cybersecurity-handbook/
