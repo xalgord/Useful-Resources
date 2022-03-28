@@ -11,3 +11,13 @@ https://freesoff.com/
 
 # cybersecurity handbook
 https://guidesmiths.github.io/cybersecurity-handbook/
+
+
+
+#youtube
+My Top 5 Picks
+▶ Crockpot - YouTube Audio Library
+▶ Taco Rap Beats (Currently Unavailable) - YouTube
+▶ See You - Ikson - Soundcloud
+▶ City - Ikson - Soundcloud
+▶ Rhodesia - YouTube Audio Library
