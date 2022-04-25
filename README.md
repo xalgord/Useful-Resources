@@ -15,9 +15,12 @@ https://guidesmiths.github.io/cybersecurity-handbook/
 
 
 # youtube music
-My Top 5 Picks
-▶ Crockpot - YouTube Audio Library
-▶ Taco Rap Beats (Currently Unavailable) - YouTube
-▶ See You - Ikson - Soundcloud
-▶ City - Ikson - Soundcloud
-▶ Rhodesia - YouTube Audio Library
+<br>My Top 5 Picks
+<br>▶ Crockpot - YouTube Audio Library
+<br>▶ Taco Rap Beats (Currently Unavailable) - YouTube
+<br>▶ See You - Ikson - Soundcloud
+<br>▶ City - Ikson - Soundcloud
+<br>▶ Rhodesia - YouTube Audio Library
+
+# 11 productive websites for web developers
+- https://suprabhasupi.hashnode.dev/11-productive-websites-for-web-developers
