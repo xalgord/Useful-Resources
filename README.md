@@ -22,5 +22,6 @@ https://guidesmiths.github.io/cybersecurity-handbook/
 <br>▶ City - Ikson - Soundcloud
 <br>▶ Rhodesia - YouTube Audio Library
 
-# 11 productive websites for web developers
+# productive websites for web developers
 - https://suprabhasupi.hashnode.dev/11-productive-websites-for-web-developers
+- https://css-tricks.com/hottest-front-end-tools-in-2021/
