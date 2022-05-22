@@ -56,3 +56,4 @@ Wallet Link👇
 - https://bit.ly/3uEBYy9
 - https://bit.ly/3vKr3TV
 - https://bit.ly/3wvCtdB
+- https://wadbit.com/
