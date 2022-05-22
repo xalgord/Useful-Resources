@@ -50,10 +50,10 @@ Wallet Link👇
 
  Free Bitcoin Earning Site👇
 
-- https://bit.ly/3j10FBv
-- https://bit.ly/3bvraKS
-- https://bit.ly/3BNdaHb
-- https://bit.ly/3uEBYy9
-- https://bit.ly/3vKr3TV
-- https://bit.ly/3wvCtdB
+- https://cryptowin.io/
+- https://www.coinpayu.com/
+- https://cointicash.xyz/
+- https://adbtc.top/
+- https://faucetcrypto.com/
+- https://simplebits.io/
 - https://wadbit.com/
