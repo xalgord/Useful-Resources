@@ -34,3 +34,25 @@ https://codetoimg.com/
 
 # illustrations
 https://www.getillustrations.com/
+
+
+# Cryptocurrency
+
+Wallet Link👇
+
+Coinswitch http://bit.ly/3dWWbJw
+Faucetpay http://bit.ly/2S2ysz8
+WazirX https://bit.ly/3zq0ftg
+express crypto http://bit.ly/2UPOWvL
+Coinbase http://bit.ly/3zxxtHd
+Binance http://bit.ly/3GwXqdY
+
+
+ Free Bitcoin Earning Site👇
+
+1)https://bit.ly/3j10FBv
+2)https://bit.ly/3bvraKS
+3)https://bit.ly/3BNdaHb
+4)https://bit.ly/3uEBYy9
+5)https://bit.ly/3vKr3TV
+6)https://bit.ly/3wvCtdB
