@@ -12,6 +12,8 @@ https://freesoff.com/
 # cybersecurity handbook
 https://guidesmiths.github.io/cybersecurity-handbook/
 
+# learning
+- https://prepinsta.com/
 
 
 # youtube music
@@ -25,7 +27,6 @@ https://guidesmiths.github.io/cybersecurity-handbook/
 # productive websites for web developers
 - https://suprabhasupi.hashnode.dev/11-productive-websites-for-web-developers
 - https://css-tricks.com/hottest-front-end-tools-in-2021/
-- https://prepinsta.com/
 
 # animated background for website with javascript
 - https://www.vantajs.com/
