@@ -28,6 +28,7 @@ https://guidesmiths.github.io/cybersecurity-handbook/
 - https://suprabhasupi.hashnode.dev/11-productive-websites-for-web-developers
 - https://css-tricks.com/hottest-front-end-tools-in-2021/
 - https://superdesigner.co/
+- https://xsgames.co/xsalert/?ref=producthunt (A nice, responsive and fully customizable Javascript Alert)
 
 # animated background for website with javascript
 - https://www.vantajs.com/
