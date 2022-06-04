@@ -39,6 +39,8 @@ https://codetoimg.com/
 # illustrations
 https://www.getillustrations.com/
 
+# Download Firmwares
+- https://www.sammobile.com/
 
 # Cryptocurrency
 
