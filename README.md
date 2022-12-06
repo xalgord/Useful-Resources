@@ -63,3 +63,9 @@ Wallet Link👇
 - https://faucetcrypto.com/
 - https://simplebits.io/
 - https://wadbit.com/
+
+## Remove unwanted things in seconds
+- https://magicstudio.com/
+
+## Colorize Pictures
+- https://palette.fm/
