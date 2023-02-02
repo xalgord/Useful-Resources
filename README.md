@@ -75,4 +75,4 @@ Wallet Link👇
 - https://poet.so/
 
 ## Create beautiful images of code
-- ray.so
+- https://ray.so/
