@@ -76,3 +76,6 @@ Wallet Link👇
 
 ## Create beautiful images of code
 - https://ray.so/
+
+## Bug Bounty
+- https://infosecwriteups.com/how-to-get-started-into-bug-bounty-1be52b3064e0
