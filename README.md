@@ -79,3 +79,4 @@ Wallet Link👇
 
 ## Bug Bounty
 - https://infosecwriteups.com/how-to-get-started-into-bug-bounty-1be52b3064e0
+- https://www.classcentral.com/subject/bug-bounty
