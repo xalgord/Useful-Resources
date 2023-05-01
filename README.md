@@ -81,3 +81,4 @@ Wallet Link👇
 - https://infosecwriteups.com/how-to-get-started-into-bug-bounty-1be52b3064e0
 - https://www.classcentral.com/subject/bug-bounty
 - https://www.classcentral.com/report/best-bug-bounty-courses/
+- https://bugbountyforum.com/tools/recon/
