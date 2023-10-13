@@ -42,28 +42,6 @@ https://www.getillustrations.com/
 # Download Firmwares
 - https://www.sammobile.com/
 
-# Cryptocurrency
-
-Wallet Link👇
-
-- Coinswitch http://bit.ly/3dWWbJw
-- Faucetpay http://bit.ly/2S2ysz8
-- WazirX https://bit.ly/3zq0ftg
-- express crypto http://bit.ly/2UPOWvL
-- Coinbase http://bit.ly/3zxxtHd
-- Binance http://bit.ly/3GwXqdY
-
-
- Free Bitcoin Earning Site👇
-
-- https://cryptowin.io/
-- https://www.coinpayu.com/
-- https://cointicash.xyz/
-- https://adbtc.top/
-- https://faucetcrypto.com/
-- https://simplebits.io/
-- https://wadbit.com/
-
 ## Remove unwanted things in seconds
 - https://magicstudio.com/
 
