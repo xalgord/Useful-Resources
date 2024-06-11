@@ -60,3 +60,12 @@ https://www.getillustrations.com/
 - https://www.classcentral.com/subject/bug-bounty
 - https://www.classcentral.com/report/best-bug-bounty-courses/
 - https://bugbountyforum.com/tools/recon/
+
+
+## Movies downloading websites
+- bollyflix
+- mkvcinemas
+- moviesmod
+- Mp4Moviez
+- Worldfree4u
+- fmoviesz
