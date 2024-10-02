@@ -61,6 +61,9 @@ https://www.getillustrations.com/
 - https://www.classcentral.com/report/best-bug-bounty-courses/
 - https://bugbountyforum.com/tools/recon/
 
+## Learn Linux
+
+- https://linuxjourney.com/
 
 ## Movies downloading websites
 - bollyflix
